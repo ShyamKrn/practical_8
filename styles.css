@@ -173,7 +173,7 @@
         .l1
         {
             height: 100vh;
-            width: 1100px;
+            width: 500px;
             margin: 5px;
             margin-left: 15px;
             border: 2px solid black;
@@ -182,7 +182,7 @@
         .r1
         {
             height: 33.3vh;
-            width: 1100px;
+            width: 500px;
             margin: 10px;
             border: 2px solid black;
             background-image: url(./assets/pr1.jpg);
@@ -192,7 +192,7 @@
         .r2
         {
             height: 33.3vh;
-            width: 1100px;
+            width: 500px;
             margin: 10px;
             border: 2px solid black;
             background-image: url(./assets/pr2.jpg);
@@ -202,7 +202,7 @@
         .r3
         {
             height: 32vh;
-            width: 1100px;
+            width: 500px;
             margin: 10px;
             border: 2px solid black;
             background-image: url(./assets/pr3.jpg);
